@@ -34,7 +34,7 @@ let package = Package(
         .package(
             name: "secp256k1",
             url: "https://github.com/Boilertalk/secp256k1.swift",
-            from: "0.0.0"),        )
+            from: "0.0.0"),
     ],
     targets: [
         .target(
